@@ -6,4 +6,4 @@
 
 
 
-<a href="https://richierich678.github.io/CafeMenu.github.io/" target ="_blank">View<a/>
+<a href="https://richierich678.github.io/CafeMenu.github.io/">View<a/>
